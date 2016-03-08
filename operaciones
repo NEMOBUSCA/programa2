@@ -1,0 +1,25 @@
+// operaciones.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+
+using namespace std;
+void main ()
+{	int suma,resta,multiplicacion,division;
+cout<<"ingrese suma,resta,multiplicacion,division:";
+
+cin>>suma,resta,multiplicacion,division;
+if(suma,resta,multiplicacion,division)
+	cout<<"suma,resta,multiplicacion,division";
+getch ();
+
+
+}
+	
+
+
+
+
